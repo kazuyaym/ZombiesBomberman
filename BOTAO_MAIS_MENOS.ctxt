@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=i\ j
+comment0.target=BOTAO_MAIS_MENOS(boolean,\ int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ verificaClick()
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=RAIO(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ mataPlayer()
+comment3.params=
+comment3.target=void\ EFEITO()
+comment4.params=
+comment4.target=void\ SOME()
+numComments=5

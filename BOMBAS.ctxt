@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=num_\ tam_\ player_
+comment0.target=BOMBAS(int,\ int,\ int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ preparaParaExplodir()
+comment3.params=
+comment3.target=void\ exploda()
+comment4.params=x\ y\ tF
+comment4.target=boolean\ bordas(int,\ int,\ int)
+comment5.params=x\ y\ tF
+comment5.target=boolean\ pedras(int,\ int,\ int)
+comment6.params=x\ y\ tF
+comment6.target=boolean\ plantas(int,\ int,\ int)
+comment7.params=
+comment7.target=void\ confirmaPresenca()
+comment8.params=
+comment8.target=void\ EFEITO()
+numComments=9

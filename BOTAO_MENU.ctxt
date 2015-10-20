@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=BOTAO_MENU(int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ efeitoMouse()
+comment3.params=
+comment3.target=void\ verificaOutros()
+comment4.params=
+comment4.target=void\ efeitoFoguete()
+comment5.params=
+comment5.target=void\ efeitoFoguete17()
+comment6.params=
+comment6.target=void\ delete()
+numComments=7

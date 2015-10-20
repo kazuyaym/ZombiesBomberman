@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=vida_\ velo_
+comment0.target=MORTE(int,\ int)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ ATIRA()
+comment3.params=
+comment3.target=void\ EFEITO()
+comment4.params=
+comment4.target=void\ mataInimigo()
+numComments=5
